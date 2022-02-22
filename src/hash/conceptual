@@ -1,0 +1,13 @@
+1.
+h(m) = Σai (mod n)
+a) yes 
+b)not fixed, example
+c)yes, inv mod the hash, then you get a sum. Without any info on the message it is not feasible to trace back the characters that sum up 
+d)No
+e)No, example 300mod 256 = 44 and 556mod256 = 44
+300 = "ddd" and 556 = "ddddd8"
+
+2.
+not pre image resistant
+
+3.
